@@ -1,0 +1,6 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+Git creates metadata necessary to keep track of files in the repository.
+
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+It is an 'area' between the working directory and the repository. It makes possibile to choose which file will be committed.
+ 
