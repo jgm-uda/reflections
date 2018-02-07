@@ -6,3 +6,6 @@ It is an 'area' between the working directory and the repository. It makes possi
  
 3. How can you use the staging area to make sure you have one commit per logical change?
 By selecting which file will be committed (adding these files in the staging area).
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+In case we already have working code and want to add a new feature without breaking the existing code.
