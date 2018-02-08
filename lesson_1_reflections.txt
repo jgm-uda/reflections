@@ -20,3 +20,4 @@ By using git checkout to restore previous version of the same file in case we ar
 7.Now that you have your workspace set up, what do you want to try using Git for?
 Just trying it (not only for saving more version of the same program, also to save more version of the same document)
 
+new line
