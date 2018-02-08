@@ -9,3 +9,9 @@ By selecting which file will be committed (adding these files in the staging are
 
 4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 In case we already have working code and want to add a new feature without breaking the existing code.
+
+5. How do the diagrams help you visualize the branch structure?
+
+
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It is a new commit related to master branch (other branch label is removed). We represent in that way because the new commit has both merged commit as parents.
