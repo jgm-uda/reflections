@@ -14,4 +14,9 @@ In case we already have working code and want to add a new feature without break
 
 
 6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
-It is a new commit related to master branch (other branch label is removed). We represent in that way because the new commit has both merged commit as parents.
+It is a new commit which combine two commits. We represent in that way because the new commit has both merged commit as parents.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+More flexibility in deciding which modified part of the conflicting file maintain and which we want to delete
+
