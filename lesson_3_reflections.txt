@@ -4,3 +4,6 @@ When I want to share my work with others and collaborate with them
 2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Avoid having your code updating automatically when you're working on new features.
 
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork are used to clone repositories stored on Github server and automatically configure remotes as fork's remote location. Clones are used to import any git repository, even from Github. Branches are mainly used for experimental features that could break the code in the master branch, so we take apart the experimental code from the stable version in the master branch.
+
