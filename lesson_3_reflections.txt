@@ -1,6 +1,6 @@
 1. When would you want to use a remote repository rather than keeping all your work local?
 When I want to share my work with others and collaborate with them
 
-nuovariga
-nuovariga2
+2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Avoid having your code updating automatically when you're working on new features.
 
