@@ -12,3 +12,6 @@ Diff the remote branch with the local branch before merge which we can do withou
 
 5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 It is easier to share your thoughs about a project using branches and pull requests but it is hard to master these technique to share and collaborate with others (at first time).
+
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When I want to try an experimental feature that could break the code and don't want to mess up with the master branch.
